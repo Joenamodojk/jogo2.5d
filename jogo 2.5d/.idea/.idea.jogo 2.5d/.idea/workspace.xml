@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a2a3635-32fc-476c-a4f0-6f35892a2962" name="Changes" comment="" />
+    <list default="true" id="0a2a3635-32fc-476c-a4f0-6f35892a2962" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.jogo 2.5d/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.jogo 2.5d/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/KayKit_Adventurers_1.0_FREE/Characters/fbx/Mage.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/KayKit_Adventurers_1.0_FREE/Characters/fbx/Mage.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player.controller" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/scripts/PlayerController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/scripts/PlayerController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,7 +77,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1700752560195</updated>
-      <workItem from="1700752567971" duration="6084000" />
+      <workItem from="1700752567971" duration="10166000" />
     </task>
     <servers />
   </component>
